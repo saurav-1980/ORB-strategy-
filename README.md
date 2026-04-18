@@ -63,7 +63,7 @@ orb-strategy/
 
 Quickstart
 1. Clone & Install
-bashgit clone https://github.com/YOUR_USERNAME/orb-strategy.git
+bashgit clone[https://github.com/saurav-1980/ORB-strategy]
 cd orb-strategy
 
 python -m venv venv
